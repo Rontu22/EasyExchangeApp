@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6835701953",
+    "firebase_url": "https://easyexchangeapp-d4bfd.firebaseio.com",
+    "project_id": "easyexchangeapp-d4bfd",
+    "storage_bucket": "easyexchangeapp-d4bfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6835701953:android:60c7ecb500f91fd713ac40",
+        "android_client_info": {
+          "package_name": "com.example.easyexchangeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6835701953-mdil16inv3re6ioil27sin8snuelni8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easyexchangeapp",
+            "certificate_hash": "6fcb58b8de5fb073909aac05115de1fbb9d9948c"
+          }
+        },
+        {
+          "client_id": "6835701953-fpumebq6oojdk1fk75ackak3d2jl1s8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFwMM-ppPmZtM8Iz1fwaAFsWG6uCcfbHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6835701953-fpumebq6oojdk1fk75ackak3d2jl1s8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
